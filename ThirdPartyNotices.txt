@@ -1,0 +1,576 @@
+Game-Invasion
+
+THIRD-PARTY MEDIA NOTICES AND INFORMATION
+Do Not Translate or Localize
+
+This project incorportates components from the media listed below.
+
+
+Images:
+
+
+%%		Invasion\Game\src\main\resources\background.png	NOTICES AND INFORMATION BEGIN HERE
+=========================================
+
+>URL:		https://www.wallpaperflare.com/city-digital-wallpaper-pixel-art-waterfall-superbrothers-sword-and-sorcery-ep-wallpaper-axt
+>The background.png is in compliance with 17 U.S.C. §512 and the Digital Millennium Copyright Act ("DMCA"):
+ 
+Permission is hereby granted, free of charge, to any person obtaining a copy of this image and associated documentation files, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish,distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+Wallpaperflare is an open platform for users to share their favorite wallpapers, as all wallpapers in Wallpaperflare are derived from the network users to share, so Wallpaperflare does not have sufficient monitoring capabilities to review the picture there are infringement and other circumstances. The user should consciously abide by the copyright law and other relevant laws and regulations, shall not infringe the legal rights of this site and the right holder, To Wallpaperflare and any third party losses, infringing users should bear full responsibility.
+=========================================
+END OF  Invasion\Game\src\main\resources\background.png NOTICES AND INFORMATION
+
+
+%%		Invasion\Game\src\main\resources\background2.png	NOTICES AND INFORMATION BEGIN HERE
+=========================================
+
+>URL:		https://exceptionalmediocrity.files.wordpress.com/2013/07/sword-sorcery-panorama-3.png
+>The background2.png is in compliance with imgur.com/tos-Intellectual Property 3.4
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this image and associated documentation files, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish,distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+By uploading a file or other content or by making a comment, you represent and warrant to us that (1) doing so does not violate or infringe anyone else's rights; and (2) you created the file or other content you are uploading, or otherwise have sufficient intellectual property rights to upload the material consistent with these terms. With regard to any file or content you upload to the public portions of our site, you grant Imgur a non-exclusive, royalty-free, perpetual, irrevocable worldwide license (with sublicense and assignment rights) to use, to display online and in any present or future media, to create derivative works of, to allow downloads of, and/or distribute any such file or content. To the extent that you delete any such file or content from the public portions of our site, the license you grant to Imgur pursuant to the preceding sentence will automatically terminate, but will not be revoked with respect to any file or content Imgur has already copied and sublicensed or designated for sublicense. Also, of course, anything you post to a public portion of our site may be used by the public pursuant to the following paragraph even after you delete it.
+=========================================
+END OF  Invasion\Game\src\main\resources\background2.png NOTICES AND INFORMATION
+
+
+%%		Invasion\Game\src\main\resources\background3.png	NOTICES AND INFORMATION BEGIN HERE
+=========================================
+
+>URL:		https://wallhere.com/en/wallpaper/1358599
+>The backgroun3d.png is in compliance with Digital Millennium Copyright Act (DMCA)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this image and associated documentation files, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish,distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material ("Content"). You are responsible for the Content that you post on or through the Service, including its legality, reliability, and appropriateness.
+
+By posting Content on or through the Service, You represent and warrant that: (i) the Content is yours (you own it) and/or you have the right to use it and the right to grant us the rights and license as provided in these Terms, and (ii) that the posting of your Content on or through the Service does not violate the privacy rights, publicity rights, copyrights, contract rights or any other rights of any person or entity. We reserve the right to terminate the account of anyone found to be infringing on a copyright.
+=========================================
+END OF  Invasion\Game\src\main\resources\background3.png NOTICES AND INFORMATION
+
+
+%%		Invasion\Game\src\main\resources\traps\cannon.png	NOTICES AND INFORMATION BEGIN HERE
+=========================================
+>URL:		https://pixular.tumblr.com/post/149698177188/quadruped-tank-pixelart-i-love-metal-slug-so
+>The cannon.png is in compliance with Digital Millennium Copyright Act (DMCA)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this image and associated documentation files, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish,distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+By accessing the PixelJoint.com web site, you agree not to upload, post, email or otherwise send or transmit any material that contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment associated with the PixelJoint.com web site. You also agree not to interfere with the servers or networks connected to the PixelJoint.com web site or to violate any of the procedures, policies or regulations of networks connected to the PixelJoint.com web site, the terms of which are incorporated herein. You also agree not to impersonate any other person while using the PixelJoint.com web site, conduct yourself in a vulgar or offensive manner while using our service, or use the PixelJoint.com web site for any unlawful purpose.
+=========================================
+END OF  Invasion\Game\src\main\resources\traps\cannon.png NOTICES AND INFORMATION
+
+%%		Invasion\Game\src\main\resources\traps\bullet.png	NOTICES AND INFORMATION BEGIN HERE
+=========================================
+>URL:		https://www.keralapool.com/photos/red-laser-beam-png.html
+>The bullet.png is in compliance with Digital Millennium Copyright Act (DMCA)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this image and associated documentation files, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish,distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+Microsoft may provide your notice to third parties (including the alleged infringer). Notices of copyright infringement must comply with the Digital Millennium Copyright Act (DMCA). You can find information on these requirements and Microsoft’s Designated DMCA Agent here.
+=========================================
+END OF  Invasion\Game\src\main\resources\traps\bullet.png NOTICES AND INFORMATION
+
+
+%%		Invasion\Game\src\main\resources\helicopter.png		NOTICES AND INFORMATION BEGIN HERE
+=========================================
+>URL:		https://www.cleanpng.com/png-helicopter-aircraft-pixel-art-clip-art-pixel-742210/download-png.html
+>The helicopter.png is in compliance with Personal Use License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this image and associated documentation files, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish,distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+Personal Use License:
+Personal Use is any use that meets none of the criteria for Commercial Use. Personal, or Non-commercial, use is a use for solely personal purposes.
+
+1)The use must not involve an exchange of money
+2)The use must not promote a business entity (this includes non-profit organizations)
+3)The use must not directly or indirectly result in financial gain
+=========================================
+END OF  Invasion\Game\src\main\resources\helicopter.png NOTICES AND INFORMATION
+
+
+%%		Invasion\Game\src\main\resources\heart.png		NOTICES AND INFORMATION BEGIN HERE
+=========================================
+>URL:		https://pixabay.com/illustrations/pixel-heart-heart-pixel-symbol-red-2779422/
+>The heart.png is in compliance with Pixabay License at https://pixabay.com/service/license/
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this image and associated documentation files, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish,distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+✓       All content on Pixabay can be used for free for commercial and noncommercial use across print and digital, except in the cases mentioned in "What is not allowed".
+✓	Attribution is not required. Giving credit to the contributor or Pixabay is not necessary but is always appreciated by our community.
+✓	You can make modifications to content from Pixabay.
+=========================================
+END OF  Invasion\Game\src\main\resources\heart.png NOTICES AND INFORMATION
+
+Audios:
+
+
+%%		Invasion\Game\src\main\resources\soundeffects\HeavyBONK.wav	NOTICES AND INFORMATION BEGIN HERE
+=========================================
+>URL:		https://www.zapsplat.com/sound-effect-category/footsteps
+>The HeavyBONK.wav is in compliance with Standard License at https://www.zapsplat.com/license-type/standard-license/
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this image and associated documentation files, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish,distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+You can use our sound effects in any non-commercial, commercial and broadcast production, including but not limited to….
+
+1.Films, television and radio programmes
+2.Commercials
+3.Radio and Podcasts
+4.Games and apps
+5.Within software
+6.YouTube videos
+7.Blogs and websites
+8.School projects
+9.Presentations, conferences, exhibitions etc
+10.Theatrical performances and live shows
+11.Musical compositions and performances
+=========================================
+END OF  Invasion\Game\src\main\resources\soundeffects\HeavyBONK.wav NOTICES AND INFORMATION
+
+
+%%		Invasion\Game\src\main\resources\soundeffects\BONK.wav	NOTICES AND INFORMATION BEGIN HERE
+=========================================
+>URL:		https://www.zapsplat.com/sound-effect-category/footsteps
+>The BONK.wav is in compliance with Standard License at https://www.zapsplat.com/license-type/standard-license/
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this image and associated documentation files, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish,distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+You can use our sound effects in any non-commercial, commercial and broadcast production, including but not limited to….
+
+1.Films, television and radio programmes
+2.Commercials
+3.Radio and Podcasts
+4.Games and apps
+5.Within software
+6.YouTube videos
+7.Blogs and websites
+8.School projects
+9.Presentations, conferences, exhibitions etc
+10.Theatrical performances and live shows
+11.Musical compositions and performances
+=========================================
+END OF  Invasion\Game\src\main\resources\soundeffects\BONK.wav NOTICES AND INFORMATION
+
+
+%%		Invasion\Game\src\main\resources\soundeffects\ConcreteFootstep.wav	NOTICES AND INFORMATION BEGIN HERE
+=========================================
+>URL:		https://www.zapsplat.com/sound-effect-category/footsteps
+>The ConcreteFootstep.wav is in compliance with Standard License at https://www.zapsplat.com/license-type/standard-license/
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this image and associated documentation files, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish,distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+You can use our sound effects in any non-commercial, commercial and broadcast production, including but not limited to….
+
+1.Films, television and radio programmes
+2.Commercials
+3.Radio and Podcasts
+4.Games and apps
+5.Within software
+6.YouTube videos
+7.Blogs and websites
+8.School projects
+9.Presentations, conferences, exhibitions etc
+10.Theatrical performances and live shows
+11.Musical compositions and performances
+=========================================
+END OF  Invasion\Game\src\main\resources\soundeffects\ConcreteFootstep.wav NOTICES AND INFORMATION
+
+
+%%		Invasion\Game\src\main\resources\soundeffects\footstepOnDryGrass.wav	NOTICES AND INFORMATION BEGIN HERE
+=========================================
+>URL:		https://www.zapsplat.com/sound-effect-category/footsteps
+>The footstepOnDryGrass.wav is in compliance with Standard License at https://www.zapsplat.com/license-type/standard-license/
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this image and associated documentation files, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish,distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+You can use our sound effects in any non-commercial, commercial and broadcast production, including but not limited to….
+
+1.Films, television and radio programmes
+2.Commercials
+3.Radio and Podcasts
+4.Games and apps
+5.Within software
+6.YouTube videos
+7.Blogs and websites
+8.School projects
+9.Presentations, conferences, exhibitions etc
+10.Theatrical performances and live shows
+11.Musical compositions and performances
+=========================================
+END OF  Invasion\Game\src\main\resources\soundeffects\footstepOnDryGrass.wav NOTICES AND INFORMATION
+
+
+%%		Invasion\Game\src\main\resources\soundeffects\jump.wav	NOTICES AND INFORMATION BEGIN HERE
+=========================================
+>URL:		https://www.zapsplat.com/sound-effect-category/cartoon-impacts
+>The jump.wav is in compliance with Standard License at https://www.zapsplat.com/license-type/standard-license/
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this image and associated documentation files, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish,distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+You can use our sound effects in any non-commercial, commercial and broadcast production, including but not limited to….
+
+1.Films, television and radio programmes
+2.Commercials
+3.Radio and Podcasts
+4.Games and apps
+5.Within software
+6.YouTube videos
+7.Blogs and websites
+8.School projects
+9.Presentations, conferences, exhibitions etc
+10.Theatrical performances and live shows
+11.Musical compositions and performances
+=========================================
+END OF  Invasion\Game\src\main\resources\soundeffects\jump.wav NOTICES AND INFORMATION
+
+
+%%		Invasion\Game\src\main\resources\soundeffects\jump.wav	NOTICES AND INFORMATION BEGIN HERE
+=========================================
+>URL:		https://www.zapsplat.com/sound-effect-category/cartoon-impacts
+>The jump.wav is in compliance with Standard License at https://www.zapsplat.com/license-type/standard-license/
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this image and associated documentation files, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish,distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+You can use our sound effects in any non-commercial, commercial and broadcast production, including but not limited to….
+
+1.Films, television and radio programmes
+2.Commercials
+3.Radio and Podcasts
+4.Games and apps
+5.Within software
+6.YouTube videos
+7.Blogs and websites
+8.School projects
+9.Presentations, conferences, exhibitions etc
+10.Theatrical performances and live shows
+11.Musical compositions and performances
+=========================================
+END OF  Invasion\Game\src\main\resources\soundeffects\jump.wav NOTICES AND INFORMATION
+
+
+
+%%		Invasion\Game\src\main\resources\soundeffects\triggeredProjectile.wav	NOTICES AND INFORMATION BEGIN HERE
+=========================================
+>URL:		https://www.zapsplat.com/sound-effect-category/screaming/
+>The triggeredProjectile.wav is in compliance with Standard License at https://www.zapsplat.com/license-type/standard-license/
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this image and associated documentation files, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish,distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+You can use our sound effects in any non-commercial, commercial and broadcast production, including but not limited to….
+
+1.Films, television and radio programmes
+2.Commercials
+3.Radio and Podcasts
+4.Games and apps
+5.Within software
+6.YouTube videos
+7.Blogs and websites
+8.School projects
+9.Presentations, conferences, exhibitions etc
+10.Theatrical performances and live shows
+11.Musical compositions and performances
+=========================================
+END OF  Invasion\Game\src\main\resources\soundeffects\triggeredProjectile.wav NOTICES AND INFORMATION
+
+
+%%		Invasion\Game\src\main\resources\soundeffects\triggeredTrap.wav	NOTICES AND INFORMATION BEGIN HERE
+=========================================
+>URL:		https://www.zapsplat.com/?s=blood&post_type=music&sound-effect-category-id=90%2C42%2C44&sc=44
+>The triggeredTrap.wav is in compliance with Standard License at https://www.zapsplat.com/license-type/standard-license/
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this image and associated documentation files, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish,distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+You can use our sound effects in any non-commercial, commercial and broadcast production, including but not limited to….
+
+1.Films, television and radio programmes
+2.Commercials
+3.Radio and Podcasts
+4.Games and apps
+5.Within software
+6.YouTube videos
+7.Blogs and websites
+8.School projects
+9.Presentations, conferences, exhibitions etc
+10.Theatrical performances and live shows
+11.Musical compositions and performances
+=========================================
+END OF  Invasion\Game\src\main\resources\soundeffects\triggeredTrap.wav NOTICES AND INFORMATION
+
+
+%%		Invasion\Game\src\main\resources\soundeffects\generator.wav	NOTICES AND INFORMATION BEGIN HERE
+=========================================
+>URL:		https://www.zapsplat.com/sound-effect-category/game-sounds
+>The generator.wav is in compliance with Standard License at https://www.zapsplat.com/license-type/standard-license/
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this image and associated documentation files, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish,distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+You can use our sound effects in any non-commercial, commercial and broadcast production, including but not limited to….
+
+1.Films, television and radio programmes
+2.Commercials
+3.Radio and Podcasts
+4.Games and apps
+5.Within software
+6.YouTube videos
+7.Blogs and websites
+8.School projects
+9.Presentations, conferences, exhibitions etc
+10.Theatrical performances and live shows
+11.Musical compositions and performances
+=========================================
+END OF  Invasion\Game\src\main\resources\soundeffects\generator.wav NOTICES AND INFORMATION
+
+
+%%		Invasion\Game\src\main\resources\soundeffects\powerUp.wav	NOTICES AND INFORMATION BEGIN HERE
+=========================================
+>URL:		https://www.zapsplat.com/sound-effect-category/game-sounds
+>The powerUp.wav is in compliance with Standard License at https://www.zapsplat.com/license-type/standard-license/
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this image and associated documentation files, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish,distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+You can use our sound effects in any non-commercial, commercial and broadcast production, including but not limited to….
+
+1.Films, television and radio programmes
+2.Commercials
+3.Radio and Podcasts
+4.Games and apps
+5.Within software
+6.YouTube videos
+7.Blogs and websites
+8.School projects
+9.Presentations, conferences, exhibitions etc
+10.Theatrical performances and live shows
+11.Musical compositions and performances
+=========================================
+END OF  Invasion\Game\src\main\resources\soundeffects\powerUp.wav NOTICES AND INFORMATION
+
+
+%%		Invasion\Game\src\main\resources\soundeffects\02 Crazy Dave (Intro Theme).wav	NOTICES AND INFORMATION BEGIN HERE
+=========================================
+>URL:		https://laurashigihara.bandcamp.com/album/plants-vs-zombies-soundtrack
+>The 02 Crazy Dave (Intro Theme).wav is in compliance with Creative Commons Attribution-Share Alike License 3.0 (Unported) (CC-BY-SA).
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this image and associated documentation files, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish,distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+There are different rules for content that is submitted to Fandom communities, for Company Original Content, and for contributions to our discussions and chat forums, each of which are described below.
+
+In all cases, you are solely responsible for all content, including but not limited to photos, profiles information, messages, comments, and other content that you upload, publish or display (hereinafter, “submit”) on or through the Services, or transmit to or share with other users. You may not submit content to the Services that you did not create or that you do not have the right to submit. You may not submit content that is not compatible with the license used by the applicable part of the Services to which you are submitting content. You understand and agree that others may, but are not obligated to, edit, delete or remove (without notice) any content from the Services, for any reason or no reason. You also represent and warrant that you own or have the necessary licenses, rights, releases, consents, and permissions to permit the Company to copy, store, publish, display, and distribute your content via the Services, in accordance with the license rules that are applicable to such content (for example, text submissions by you to Fandom communities are subject to the licensing terms set forth at Licensing).
+
+The Services are not and shall not function as an archive. We have no liability to you or any other person for loss, damage, or destruction to your content. You are solely responsible at your sole cost and expense for creating backup copies and replacing any content you post or store on the Services or provide to us.
+=========================================
+END OF  Invasion\Game\src\main\resources\soundeffects\02 Crazy Dave (Intro Theme).wav NOTICES AND INFORMATION
+
+fonts:
+
+%%		Invasion\Game\src\main\resources\fonts\Arimo.ttf	NOTICES AND INFORMATION BEGIN HERE
+=========================================
+>URL: https://fonts.google.com/specimen/Arimo?preview.text_type=custom
+>
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+   1. Definitions.
+
+      "License" shall mean the terms and conditions for use, reproduction,
+      and distribution as defined by Sections 1 through 9 of this document.
+
+      "Licensor" shall mean the copyright owner or entity authorized by
+      the copyright owner that is granting the License.
+
+      "Legal Entity" shall mean the union of the acting entity and all
+      other entities that control, are controlled by, or are under common
+      control with that entity. For the purposes of this definition,
+      "control" means (i) the power, direct or indirect, to cause the
+      direction or management of such entity, whether by contract or
+      otherwise, or (ii) ownership of fifty percent (50%) or more of the
+      outstanding shares, or (iii) beneficial ownership of such entity.
+
+      "You" (or "Your") shall mean an individual or Legal Entity
+      exercising permissions granted by this License.
+
+      "Source" form shall mean the preferred form for making modifications,
+      including but not limited to software source code, documentation
+      source, and configuration files.
+
+      "Object" form shall mean any form resulting from mechanical
+      transformation or translation of a Source form, including but
+      not limited to compiled object code, generated documentation,
+      and conversions to other media types.
+
+      "Work" shall mean the work of authorship, whether in Source or
+      Object form, made available under the License, as indicated by a
+      copyright notice that is included in or attached to the work
+      (an example is provided in the Appendix below).
+
+      "Derivative Works" shall mean any work, whether in Source or Object
+      form, that is based on (or derived from) the Work and for which the
+      editorial revisions, annotations, elaborations, or other modifications
+      represent, as a whole, an original work of authorship. For the purposes
+      of this License, Derivative Works shall not include works that remain
+      separable from, or merely link (or bind by name) to the interfaces of,
+      the Work and Derivative Works thereof.
+
+      "Contribution" shall mean any work of authorship, including
+      the original version of the Work and any modifications or additions
+      to that Work or Derivative Works thereof, that is intentionally
+      submitted to Licensor for inclusion in the Work by the copyright owner
+      or by an individual or Legal Entity authorized to submit on behalf of
+      the copyright owner. For the purposes of this definition, "submitted"
+      means any form of electronic, verbal, or written communication sent
+      to the Licensor or its representatives, including but not limited to
+      communication on electronic mailing lists, source code control systems,
+      and issue tracking systems that are managed by, or on behalf of, the
+      Licensor for the purpose of discussing and improving the Work, but
+      excluding communication that is conspicuously marked or otherwise
+      designated in writing by the copyright owner as "Not a Contribution."
+
+      "Contributor" shall mean Licensor and any individual or Legal Entity
+      on behalf of whom a Contribution has been received by Licensor and
+      subsequently incorporated within the Work.
+
+   2. Grant of Copyright License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      copyright license to reproduce, prepare Derivative Works of,
+      publicly display, publicly perform, sublicense, and distribute the
+      Work and such Derivative Works in Source or Object form.
+
+   3. Grant of Patent License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      (except as stated in this section) patent license to make, have made,
+      use, offer to sell, sell, import, and otherwise transfer the Work,
+      where such license applies only to those patent claims licensable
+      by such Contributor that are necessarily infringed by their
+      Contribution(s) alone or by combination of their Contribution(s)
+      with the Work to which such Contribution(s) was submitted. If You
+      institute patent litigation against any entity (including a
+      cross-claim or counterclaim in a lawsuit) alleging that the Work
+      or a Contribution incorporated within the Work constitutes direct
+      or contributory patent infringement, then any patent licenses
+      granted to You under this License for that Work shall terminate
+      as of the date such litigation is filed.
+
+   4. Redistribution. You may reproduce and distribute copies of the
+      Work or Derivative Works thereof in any medium, with or without
+      modifications, and in Source or Object form, provided that You
+      meet the following conditions:
+
+      (a) You must give any other recipients of the Work or
+          Derivative Works a copy of this License; and
+
+      (b) You must cause any modified files to carry prominent notices
+          stating that You changed the files; and
+
+      (c) You must retain, in the Source form of any Derivative Works
+          that You distribute, all copyright, patent, trademark, and
+          attribution notices from the Source form of the Work,
+          excluding those notices that do not pertain to any part of
+          the Derivative Works; and
+
+      (d) If the Work includes a "NOTICE" text file as part of its
+          distribution, then any Derivative Works that You distribute must
+          include a readable copy of the attribution notices contained
+          within such NOTICE file, excluding those notices that do not
+          pertain to any part of the Derivative Works, in at least one
+          of the following places: within a NOTICE text file distributed
+          as part of the Derivative Works; within the Source form or
+          documentation, if provided along with the Derivative Works; or,
+          within a display generated by the Derivative Works, if and
+          wherever such third-party notices normally appear. The contents
+          of the NOTICE file are for informational purposes only and
+          do not modify the License. You may add Your own attribution
+          notices within Derivative Works that You distribute, alongside
+          or as an addendum to the NOTICE text from the Work, provided
+          that such additional attribution notices cannot be construed
+          as modifying the License.
+
+      You may add Your own copyright statement to Your modifications and
+      may provide additional or different license terms and conditions
+      for use, reproduction, or distribution of Your modifications, or
+      for any such Derivative Works as a whole, provided Your use,
+      reproduction, and distribution of the Work otherwise complies with
+      the conditions stated in this License.
+
+   5. Submission of Contributions. Unless You explicitly state otherwise,
+      any Contribution intentionally submitted for inclusion in the Work
+      by You to the Licensor shall be under the terms and conditions of
+      this License, without any additional terms or conditions.
+      Notwithstanding the above, nothing herein shall supersede or modify
+      the terms of any separate license agreement you may have executed
+      with Licensor regarding such Contributions.
+
+   6. Trademarks. This License does not grant permission to use the trade
+      names, trademarks, service marks, or product names of the Licensor,
+      except as required for reasonable and customary use in describing the
+      origin of the Work and reproducing the content of the NOTICE file.
+
+   7. Disclaimer of Warranty. Unless required by applicable law or
+      agreed to in writing, Licensor provides the Work (and each
+      Contributor provides its Contributions) on an "AS IS" BASIS,
+      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+      implied, including, without limitation, any warranties or conditions
+      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
+      PARTICULAR PURPOSE. You are solely responsible for determining the
+      appropriateness of using or redistributing the Work and assume any
+      risks associated with Your exercise of permissions under this License.
+
+   8. Limitation of Liability. In no event and under no legal theory,
+      whether in tort (including negligence), contract, or otherwise,
+      unless required by applicable law (such as deliberate and grossly
+      negligent acts) or agreed to in writing, shall any Contributor be
+      liable to You for damages, including any direct, indirect, special,
+      incidental, or consequential damages of any character arising as a
+      result of this License or out of the use or inability to use the
+      Work (including but not limited to damages for loss of goodwill,
+      work stoppage, computer failure or malfunction, or any and all
+      other commercial damages or losses), even if such Contributor
+      has been advised of the possibility of such damages.
+
+   9. Accepting Warranty or Additional Liability. While redistributing
+      the Work or Derivative Works thereof, You may choose to offer,
+      and charge a fee for, acceptance of support, warranty, indemnity,
+      or other liability obligations and/or rights consistent with this
+      License. However, in accepting such obligations, You may act only
+      on Your own behalf and on Your sole responsibility, not on behalf
+      of any other Contributor, and only if You agree to indemnify,
+      defend, and hold each Contributor harmless for any liability
+      incurred by, or claims asserted against, such Contributor by reason
+      of your accepting any such warranty or additional liability.
+
+   END OF TERMS AND CONDITIONS
+
+   APPENDIX: How to apply the Apache License to your work.
+
+      To apply the Apache License to your work, attach the following
+      boilerplate notice, with the fields enclosed by brackets "[]"
+      replaced with your own identifying information. (Don't include
+      the brackets!)  The text should be enclosed in the appropriate
+      comment syntax for the file format. We also recommend that a
+      file or class name and description of purpose be included on the
+      same "printed page" as the copyright notice for easier
+      identification within third-party archives.
+
+   Copyright [yyyy] [name of copyright owner]
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+
+=========================================
+END OF  Invasion\Game\src\main\resources\fonts\Arimo.ttf NOTICES AND INFORMATION
+
