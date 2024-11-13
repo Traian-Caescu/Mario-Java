@@ -100,6 +100,7 @@ public abstract class GameObject extends Positional implements Drawable, Interac
     {
         Texture newTexture = new Texture();
         Sprite newSprite;
+
         try
         {
             InputStream imageFile = GameObject.class.getResourceAsStream(imagePath);
